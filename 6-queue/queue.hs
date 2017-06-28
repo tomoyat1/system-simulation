@@ -2,10 +2,7 @@ import Control.Monad
 import Control.Monad.State
 import Data.Array
 import Data.List
-
 import System.Random
-
-import Debug.Trace
 
 import Graphics.Gnuplot.Simple
 import Graphics.Gnuplot.Value.Atom
